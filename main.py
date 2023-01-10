@@ -5,6 +5,7 @@ from miscCog import miscCog
 from adminCog import adminCog
 # from musicCog import musicCog
 from keepAlive import keep_alive
+# NOTE — use keepAlive script with UptimeRobot if you are planning to host your bot on Replit, otherwise comment lines with it.
 
 intents = discord.Intents.all() # Bot requires full Administrator privileges.
 bot = commands.Bot(command_prefix=['k!', 'K!'], case_insensitive=True, intents=intents)
