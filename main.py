@@ -43,4 +43,5 @@ This bot indicates deleted messages and posts them.
 
 keep_alive()
 secret = os.environ['TOKEN']
+# NOTE - setup secret variable according to your development environment settings.
 bot.run(secret)
