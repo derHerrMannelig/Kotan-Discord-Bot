@@ -1,4 +1,4 @@
-# Kotan-Discord-Bot
+## Kotan-Discord-Bot
 
 Simple discord.py bot with basic moderation features and some entertaining ones.  
 Optimized for deploying via Replit.  
